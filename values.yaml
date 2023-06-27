@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/mastodon/mastodon
   # https://github.com/mastodon/mastodon/pkgs/container/mastodon
-  #
+  # test
   # alternatively, use `latest` for the latest release or `edge` for the image
   # built from the most recent commit
   #
